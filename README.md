@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Demion-L
-- 👀 I’m interested in ...Frontend
-- 🌱 I’m currently learning ...ReactJS
+- 👀 I’m interested in ...Backend
+- 🌱 I’m currently learning ...Node.js
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...<pradovd4@gmail.com>
 
