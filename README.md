@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Demion-L
-- 👀 I’m interested in ...Backend
-- 🌱 I’m currently learning ...Node.js
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in Fullstack
+- 🌱 I’m currently learning React.js
+- 💞️ I’m looking to collaborate on interesting projects
 - 📫 How to reach me ...<pradovd4@gmail.com>
 
 <!---
