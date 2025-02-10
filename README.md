@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Demion-L
-- 👀 I’m interested in Fullstack developing
-- 🌱 I’m currently learning Next.js
+- 👀 I’m interested in AI tools and features
+- 🌱 I’m currently learning AI development
 - 💞️ I’m looking to collaborate on interesting projects
 - 📫 How to reach me ...<pradovd4@gmail.com>
 
